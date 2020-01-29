@@ -31,4 +31,4 @@ n3 = [-1, 0]
 n4 = [0, -3, 1, 1]
 
 ans = my.maxSubArray(n0)
-print('ans %s' % str(ans))
+print('ans solved= %s' % str(ans))
